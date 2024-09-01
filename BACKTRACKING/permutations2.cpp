@@ -1,3 +1,5 @@
+// more optimized approach to find all permutations - wih no additional space
+
 #include<bits/stdc++.h>
 using namespace std;
 
